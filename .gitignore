@@ -1,9 +1,11 @@
 # Exclude downloaded memories and personal data
 memories/
+memories_with_overlays/
 data from snapchat/
 
 # Exclude download progress (contains personal data)
 download_progress.json
+overlay_progress.json
 
 # Python
 __pycache__/

@@ -1,0 +1,14 @@
+# Requirements for overlay processing functionality
+# Install with: pip install -r requirements_overlays.txt
+
+Pillow>=9.0.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+
+
+# Optional: FFmpeg for video audio preservation
+# Download from: https://ffmpeg.org/download.html
+# Or install via package manager:
+# - Windows: choco install ffmpeg
+# - macOS: brew install ffmpeg  
+# - Ubuntu/Debian: sudo apt install ffmpeg
